@@ -1,4 +1,4 @@
-filei2
+file2
 updated
 line3
 Updated again
