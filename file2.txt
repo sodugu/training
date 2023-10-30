@@ -2,4 +2,3 @@ file2
 updated
 line3
 Updated again
-reverting
